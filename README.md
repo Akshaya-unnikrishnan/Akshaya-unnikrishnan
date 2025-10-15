@@ -22,7 +22,7 @@
 
 ---
 
-### 📌 Featured Projects (Coming Soon)
+### 📌 Featured Projects 
 
 - 🛒 **Clothy** – Women’s Fashion E-Commerce Website (Django)
 - 🎓 **Student Attendance Tracker** – Multi-role Login System
