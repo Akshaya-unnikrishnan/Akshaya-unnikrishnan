@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there! I'm Akshaya
 
-<!--
-**Akshaya-unnikrishnan/Akshaya-unnikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergraduate**  
+💻 **Aspiring Software Developer | Web Developer | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Currently exploring **Django, Machine Learning, and Full-Stack Development**
+- 🧠 Strong fundamentals in **Programming, Problem-Solving, and Databases**
+- 🎯 Goal: To build **impactful real-world projects** and contribute to **open source**
+- 💡 Interests: **Web Apps • AI-based Systems • Research & Innovation**
+
+---
+
+### 🔧 Tech Stack
+
+| Languages | Frameworks / Libraries | Tools & Platforms |
+|-----------|------------------------|-------------------|
+| Python, C, Java | Django, HTML, CSS | Git, GitHub, VS Code |
+
+---
+
+### 📌 Featured Projects (Coming Soon)
+
+- 🛒 **Clothy** – Women’s Fashion E-Commerce Website (Django)
+- 🎓 **Student Attendance Tracker** – Multi-role Login System
+- 🤖 **AI Chatbot Web App** – Multilingual Chat with History & Dashboard
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaya%20Unnikrishnan-blue)](https://www.linkedin.com/in/akshaya-unnikrishnan/)  
+📧 Email: *add here if you want it public*
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories and collaborate with me!*
