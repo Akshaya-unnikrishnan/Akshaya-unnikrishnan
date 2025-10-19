@@ -5,12 +5,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🌱 Currently exploring **Django, Machine Learning, and Full-Stack Development**
-- 🧠 Strong fundamentals in **Programming, Problem-Solving, and Databases**
-- 🎯 Goal: To build **impactful real-world projects** and contribute to **open source**
-- 💡 Interests: **Web Apps • AI-based Systems • Research & Innovation**
+-  Currently exploring **Django, Machine Learning, and Full-Stack Development**
+-  Strong fundamentals in **Programming, Problem-Solving, and Databases**
+-  Goal: To build **impactful real-world projects** and contribute to **open source**
+-  Interests: **Web Apps • AI-based Systems • Research & Innovation**
 
 ---
 
@@ -22,15 +22,15 @@
 
 ---
 
-### 📌 Featured Projects 
+###  Featured Projects 
 
-- 🛒 **Clothy** – Women’s Fashion E-Commerce Website (Django)
-- 🎓 **Student Attendance Tracker** – Multi-role Login System
-- 🤖 **AI Chatbot Web App** – Multilingual Chat with History & Dashboard
+-  **Clothy** – Women’s Fashion E-Commerce Website (Django)
+-  **Student Attendance Tracker** – Multi-role Login System
+-  **AI Chatbot Web App** – Multilingual Chat with History & Dashboard
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaya%20Unnikrishnan-blue)](https://www.linkedin.com/in/akshaya-unnikrishnan/)  
 📧 Email: *add here if you want it public*
