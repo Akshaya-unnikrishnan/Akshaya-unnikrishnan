@@ -26,14 +26,13 @@
 
 -  **Clothy** – Women’s Fashion E-Commerce Website (Django)
 -  **Student Attendance Tracker** – Multi-role Login System
--  **AI Chatbot Web App** – Multilingual Chat with History & Dashboard
-
+-  **Replica Web App** – Fake Website Detection
 ---
 
 ###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaya%20Unnikrishnan-blue)](https://www.linkedin.com/in/akshaya-unnikrishnan/)  
-📧 Email: *add here if you want it public*
+
 
 ---
 
