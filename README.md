@@ -25,8 +25,9 @@
 ###  Featured Projects 
 
 -  **Clothy** – Women’s Fashion E-Commerce Website (Django)
--  **Student Attendance Tracker** – Multi-role Login System
+-  **AttendEase-Student Attendance Tracker** – Multi-role Login System
 -  **Replica Web App** – Fake Website Detection
+-  **ZenDo**-ToDo
 ---
 
 ###  Connect With Me
