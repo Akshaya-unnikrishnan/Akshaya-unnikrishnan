@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Akshaya
 
-🎓 **Computer Science Undergraduate**  
+🎓 **Computer Science Graduate**  
 💻 **Aspiring Software Developer | Web Developer | AI/ML Enthusiast**
 
 ---
